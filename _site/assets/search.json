@@ -16,17 +16,17 @@
   
   
   {
-    "title": "About this website",
-    "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
-    "url": "/about/"
-  },
-  
-  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
     "url": "/categories/"
+  },
+  
+  {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "\n\n  \n    Contact\n    Name: *\n    \n\n    Email Address: *\n    \n\n    Message: *\n    \n\n    \n    \n    * indicates a required field\n\n    \n      \n      \n      \n    \n  \n\n\n\n\nPlease enable JavaScript to use the form.\n\n",
+    "url": "/contact/"
   },
   
   {
@@ -37,10 +37,17 @@
   },
   
   {
-    "title": "test",
+    "title": "Search",
     "excerpt": "\n",
-    "content": "There isn’t much going on here yet, but watch this space\n",
-    "url": "/"
+    "content": "\n  \n    Search term:\n    \n\n    \n        \n    \n  \n\n\n\n\n\n\nPlease enable JavaScript to use the search form.\n",
+    "url": "/search/"
+  },
+  
+  {
+    "title": "Writing",
+    "excerpt": "\n",
+    "content": "\nFiction\n\nErin is currently revising her first fantasy novel. In between novel writing and revision, she also writes short stories.\n\nShort Fiction\n\nCurently Querying\n\nHeart of Home: a romance-free fairy tale retelling of Thumbelina\n\nEcho of the Desert in the Sky: mythic eco-fantasy\n\nNonfiction\n\nForthcoming.\n",
+    "url": "/writing/"
   }
   
 ]

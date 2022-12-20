@@ -1,13 +1,13 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
 
-# File excludes
+# 1. File excludes
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
 
-# Set plugins
+# 2. Installed Gems / Set plugins
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -20,43 +20,22 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-# Site settings
-url: 'https://erindarrow.github.io'
-baseurl: ''
-title: 'Erin Darrow'
-description: 'Fantasy writer'
-permalink: pretty
-logo: "/assets/logo.png"
-
-# Pagination
+# 3. Gem settings
 paginate: 5
 paginate_path: blog/page:num
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+# 4. Jekyll settings
 
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
-# Collections
+# 5. Collections
 collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    description: "Erin Darrow's Blog"
+    feature_text: ''
     feature_image: "/assets/header.jpg"
 
-# Collection settings
+# 6. Jekyll collections settings
 defaults:
   -
     scope:
@@ -70,3 +49,55 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+# 7. Site settings
+url: 'https://erindarrow.github.io'
+baseurl: ''
+title: 'Erin Darrow'
+description: 'Fantasy writer'
+permalink: pretty
+logo: "/assets/logo.png"
+lang: "en-US"
+email: ""
+disqus: ""
+      
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Writing
+  url: /writing/
+- title: Blog
+  url: /blog/
+- title: Contact
+  url: /contact/
+- title: Search
+  url: /search/
+
+navigation_footer:
+- title: Site modified from Alembic
+  url: https://github.com/daviddarnes/alembic
+- title: Logo by KRDCommunication
+  url: https://www.krd-communication.fr
+- title: RSS feed
+  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Email: true
+
+# 10. Fonts
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Heebo&family=Lora&display=swap

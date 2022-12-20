@@ -4,6 +4,21 @@
   "short_name": "ErinDarrow",
   "theme_color": "#24292e",
   "background_color": "#ffffff",
+  "icons": [
+      {
+        "src": "/assets/logos/logo@16px.png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/assets/logos/logo@32px.png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/assets/logos/logo@96px.png",
+        "sizes": "96x96"
+      }
+      
+    ],
   "start_url": "/",
   "display": "standalone"
 }
