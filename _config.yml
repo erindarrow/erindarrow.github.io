@@ -29,9 +29,9 @@ paginate_path: blog/page:num
 # 5. Collections
 collections:
   posts:
-    title: Posts
+    title: Blog
     output: true
-    description: "Erin Darrow's Blog"
+    description: ""
     feature_text: ''
     feature_image: "/assets/header.jpg"
 
@@ -58,7 +58,7 @@ description: 'Fantasy writer'
 permalink: pretty
 logo: "/assets/logo.png"
 lang: "en-US"
-email: "erinkatd@outlook.com"
+email: ""
 disqus: ""
       
 # 8. Site favicons & manifest icons
@@ -81,7 +81,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: modified Alembic theme
+- title: Site modified from Alembic
   url: https://github.com/daviddarnes/alembic
 - title: Logo by KRDCommunication
   url: https://www.krd-communication.fr
