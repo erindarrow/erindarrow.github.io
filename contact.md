@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-{% include site-form.html %}
+{% include contact-form.html %}
