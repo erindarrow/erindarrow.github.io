@@ -58,7 +58,7 @@ description: 'Fantasy writer'
 permalink: pretty
 logo: "/assets/logo.png"
 lang: "en-US"
-email: ""
+email: "erinkatd@outlook.com"
 disqus: ""
       
 # 8. Site favicons & manifest icons
@@ -81,7 +81,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Site modified from Alembic
+- title: modified Alembic theme
   url: https://github.com/daviddarnes/alembic
 - title: Logo by KRDCommunication
   url: https://www.krd-communication.fr
