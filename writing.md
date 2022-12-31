@@ -17,4 +17,4 @@ _Echo of the Desert in the Sky_: mythic eco-fantasy of a mother's journey to bri
 
 ## Nonfiction
 
-Forthcoming.
+[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), _Please See Me_ [Issue 12: Diagnosis](https://pleaseseeme.com/).
