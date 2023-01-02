@@ -90,6 +90,10 @@ navigation_footer:
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Email: true
+  Twitter: "#815F93"
+  facebook: "#815F93"
+  tumblr: "#815F93"
+  Email: true
 
 # 10. Fonts
 # Load custom fonts from fonts.google.com etc
