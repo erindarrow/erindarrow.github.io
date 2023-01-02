@@ -25,6 +25,7 @@ paginate: 5
 paginate_path: blog/page:num
 
 # 4. Jekyll settings
+timezone: America/Vancouver # use IANA time zone database
 
 # 5. Collections
 collections:
@@ -60,6 +61,7 @@ logo: "/assets/logo.png"
 lang: "en-US"
 email: ""
 disqus: ""
+css_inline: false # if true, will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
       
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
