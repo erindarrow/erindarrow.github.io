@@ -1,1 +1,1 @@
-GitHub Pages built using a modified [Alembic theme](https://github.com/daviddarnes/alembic) by [David Darnes](https://github.com/daviddarnes). Logo designed by [KRDCommunication](https://www.krd-communication.fr/). Site header image by Erin Darrow.
+GitHub Pages built using a modified [Alembic theme](https://alembic.darn.es/) by [David Darnes](https://darn.es/). Logo designed by [KRDCommunication](https://www.krd-communication.fr/). Site header image by Erin Darrow.
