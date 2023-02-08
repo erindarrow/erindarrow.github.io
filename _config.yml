@@ -55,7 +55,7 @@ defaults:
 url: 'https://erindarrow.github.io'
 baseurl: ''
 title: 'Erin Darrow'
-description: 'Fantasy writer'
+description: 'Fantasy author'
 permalink: pretty
 logo: "/assets/logo.png"
 lang: "en-US"
@@ -83,7 +83,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Site modified from Alembic
+- title: Alembic Theme
   url: https://github.com/daviddarnes/alembic
 - title: Logo by KRDCommunication
   url: https://www.krd-communication.fr
