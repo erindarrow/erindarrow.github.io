@@ -52,7 +52,7 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
-url: 'https://erindarrow.github.io'
+url: 'https://erindarrow.com'
 baseurl: ''
 title: 'Erin Darrow'
 description: 'Fantasy author'
@@ -60,7 +60,7 @@ permalink: pretty
 logo: "/assets/logo.png"
 lang: "en-US"
 email: ""
-disqus: ""
+disqus: "darrowe"
 css_inline: false # if true, will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
       
 # 8. Site favicons & manifest icons
