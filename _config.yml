@@ -52,7 +52,7 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
-url: 'https://erindarrow.com'
+url: 'https://erindarrow.github.io'
 baseurl: ''
 title: 'Erin Darrow'
 description: 'Fantasy author'
