@@ -9,7 +9,7 @@ Erin is currently revising her first fantasy novel. In between novel writing and
 
 #### Short Fiction
 
-_Echo of the Desert in the Sky_: speculative fiction short story forthcoming in the vernal equinox issue of [All Worlds Wayfarer](https://www.allworldswayfarer.com/) Issue 14, 13 March 2023.
+_An Echo of the Desert in the Sky_: speculative fiction short story forthcoming in the vernal equinox issue of [All Worlds Wayfarer](https://www.allworldswayfarer.com/) Issue 14, 13 March 2023.
 
 [Pre-order Kindle ebook](https://a.co/d/0O1kxLa)
 
