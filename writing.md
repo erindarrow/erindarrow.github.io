@@ -16,4 +16,3 @@ _An Echo of the Desert in the Sky_: speculative fiction short story forthcoming 
 ## Nonfiction
 
 [Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), _Please See Me_ [Issue 12: Diagnosis](https://pleaseseeme.com/), December 2022.
-rer 
