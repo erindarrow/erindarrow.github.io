@@ -9,10 +9,10 @@ Erin is currently revising her first fantasy novel. In between novel writing and
 
 #### Short Fiction
 
-_An Echo of the Desert in the Sky_: speculative fiction short story forthcoming in the vernal equinox issue of [All Worlds Wayfarer](https://www.allworldswayfarer.com/) Issue 14, 13 March 2023.
+Echo of the Desert in the Sky, _[All Worlds Wayfarer](https://www.allworldswayfarer.com/)_ Issue 14, 13 March 2023.
 
-[Pre-order Kindle ebook](https://a.co/d/0O1kxLa)
+[Buy Kindle ebook](https://a.co/d/0O1kxLa)
 
 ## Nonfiction
 
-[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), _Please See Me_ [Issue 12: Diagnosis](https://pleaseseeme.com/), December 2022.
+[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), _Please See Me_ [Issue 12: Diagnosis](https://pleaseseeme.com/), 14 December 2022.
