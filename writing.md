@@ -13,4 +13,4 @@ Echo of the Desert in the Sky, [All Worlds Wayfarer Issue 14](https://a.co/d/0O1
 
 ## Nonfiction
 
-[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), Please See Me [Issue 12: Diagnosis](https://pleaseseeme.com/), 14 December 2022.
+[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), Please See Me Issue 12: Diagnosis, 14 December 2022.
