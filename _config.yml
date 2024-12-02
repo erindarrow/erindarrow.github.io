@@ -83,10 +83,6 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Alembic Theme
-  url: https://github.com/daviddarnes/alembic
-- title: Logo by KRDCommunication
-  url: https://www.krd-communication.fr
 - title: RSS feed
   url: /feed.xml
 

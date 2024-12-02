@@ -2,15 +2,18 @@
 title: Writing
 ---
 
-<br>
-## Fiction
+## Short fiction
+**More Than Microscopic**
+<br>_DreamForge Anvil_ Issue 18 (December 2024)
+<br>_DreamForge Magazine_ - Issue 15 (December 2024)
+<br>[Read online](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow)
 
-Erin is currently revising her first fantasy novel. In between novel writing and revision, she also writes short stories.
-
-#### Short Fiction
-
-Echo of the Desert in the Sky, [All Worlds Wayfarer Issue 14](https://a.co/d/0O1kxLa) (13 March 2023). **Content Warnings**: Dead Bodies, References to: Genocide
+**Echo of the Desert in the Sky**
+<br>_All Worlds Wayfarer_ Issue 14 (March 2023)
+<br>Content Warnings: Dead Bodies, References to: Genocide
+<br>[Buy ebook](https://a.co/d/0O1kxLa)
 
 ## Nonfiction
-
-[Merry Migraines](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/), Please See Me Issue 12: Diagnosis (14 December 2022)
+**Merry Migraines**
+<br>_Please See Me_ Issue 12 (December 2022)
+<br>[Read online](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/)
