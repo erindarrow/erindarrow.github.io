@@ -1,15 +1,17 @@
 ---
-title: More Than Microscopic out now
+title: More Than Microscopic in print
 categories:
 - publications
 - news
 - short stories
 ---
 
-My lunarpunk fairytale _More Than Microscopic_ is now out in [DreamForge Anvil 18](https://dreamforge.mywebportal.app/dreamforge/magazines/details?id=43): Solitary Journeys, Shared Souls. Read it [online now](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow).
+_More Than Microscopic_, my lunarpunk cli-fi fairytale, is now out in print in [DreamForge Magazine 18](https://amzn.asia/d/2gv8EHW): Each and Other. Or read it [online now](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow).
 
-Descended from mer, Pearl sows phytoplankton blooms with her magic song to heal the seas. She encounters a rewilder releasing penguins on the beach and the shell hiding her magic and heart begins to weather away.
+From the editors: "Darrow delivers lyrical prose with themes of belonging and environmental stewardship, crafting a poignant tale of hope and transformation."
 
-Please support positive speculative fiction and authors like me by buying the issue directly from DreamForge [here](https://dreamforge.mywebportal.app/dreamforge/magazines/details?id=43). Issue 18 is also available [on kindle](https://a.co/d/ejVnNjb).
+Please support hopeful speculative fiction and authors like me by buting a copy of DreamForge:
+<br>[Magazine Issue 15 in print](https://amzn.asia/d/grHWKs5)
+<br>[Anvil Issue 18 ebook](https://dreamforgemagazine.com/product/dreamforge-anvil-issue-18-epub-mobi-pdf/)
+<br>[Anvil Issue 18 kindle](https://a.co/d/ejVnNjb)
 
-This story will also appear in the print issue of DreamForge Magazine 14 coming in a couple of weeks. I will share links when they are available.
