@@ -9,7 +9,7 @@ title: Writing
 <br>[Read online](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow)
 <br>[Buy DreamForge ebook](https://dreamforgemagazine.com/product/dreamforge-anvil-issue-18-epub-mobi-pdf/)
 <br>[Buy kindle ebook](https://a.co/d/ejVnNjb)
-<br>[Bring print magazine](https://a.co/d/1itSqtL)
+<br>[Buy print magazine](https://a.co/d/1itSqtL)
 
 **Echo of the Desert in the Sky**
 <br>_All Worlds Wayfarer_ Issue 14 (March 2023)
