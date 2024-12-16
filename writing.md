@@ -20,5 +20,3 @@ title: Writing
 **Merry Migraines**
 <br>_Please See Me_ Issue 12 (December 2022)
 <br>[Read online](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/)
-
-<img src="https://github.com/erindarrow/erindarrow.github.io/tree/main/assets/covers/AllWorldsWayfarerXIVcover.jpg.jpg" alt="DreamForge Anvil 18 cover" height="200"/> <img src="https://github.com/erindarrow/erindarrow.github.io/tree/main/assets/covers/df_anvil_18_cover.JPG" alt="DreamForge Anvil 18 cover" height="200"/> <img src="https://github.com/erindarrow/erindarrow.github.io/tree/main/assets/covers/df-mag-cover-15.jpg" alt="DreamForge Magazine 15 cover" height="200"/>
