@@ -4,7 +4,7 @@ title: Writing
 
 ## Short fiction
 **What the Willow Knows**
-<br>forthcoming in _Once Upon a Moonless Night: Tales of Betrayal, Revenge, and Redemption_ anthology from the Brothers Uber
+<br>forthcoming in _Once Upon a Moonless Night: Tales of Betrayal, Revenge, and Redemption_, Brothers Uber
 
 **More Than Microscopic**
 <br>_DreamForge Anvil_ Issue 18 (December 2024)
@@ -17,10 +17,11 @@ title: Writing
 "a surprisingly sweet tale" – Mina, [Tangent Online](https://tangentonline.com/e-market-quarterly/dreamforge-anvil-18-winter-2024/)
 
 **Echo of the Desert in the Sky**
-<br>forthcoming in _Hope: The Thing with Feathers_ anthology from Metaphorosis Books (reprint)
-<br>_All Worlds Wayfarer_ Issue 14 (March 2023), original publication
+<br>_Hope: The Thing with Feathers_, Metaphorosis Books (August 2025)
+<br>_All Worlds Wayfarer_ Issue 14 (March 2023)
 <br>Content Warnings: Dead Bodies, References to: Genocide
-<br>[Buy All Worlds Wayfarer ebook](https://a.co/d/0O1kxLa)
+<br>[Buy All Worlds Wayfarer on kindle](https://a.co/d/0O1kxLa)
+<br>[Buy Hope: The Thing With Feathers on kindle](https://www.amazon.com/HOPE-Feathers-B-Morris-Allen-ebook/dp/B0FC3PQ44H)
 
 ## Nonfiction
 **Merry Migraines**
