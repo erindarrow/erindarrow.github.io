@@ -25,7 +25,7 @@ paginate: 5
 paginate_path: blog/page:num
 
 # 4. Jekyll settings
-timezone: America/Vancouver # use IANA time zone database
+timezone: Pacific/Auckland # use IANA time zone database
 
 # 5. Collections
 collections:
