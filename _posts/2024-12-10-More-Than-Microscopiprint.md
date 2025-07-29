@@ -1,9 +1,7 @@
 ---
 title: More Than Microscopic in print
 categories:
-- publications
 - news
-- short stories
 ---
 
 _More Than Microscopic_, my lunarpunk cli-fi fairytale, is now out in print in [DreamForge Magazine 15](https://a.co/d/1itSqtL): Each and Other. Or read it [online now](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow).

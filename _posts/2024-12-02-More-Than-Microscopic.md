@@ -1,9 +1,7 @@
 ---
 title: More Than Microscopic out now
 categories:
-- publications
 - news
-- short stories
 ---
 
 My lunarpunk fairytale _More Than Microscopic_ is now out in [DreamForge Anvil 18](https://dreamforge.mywebportal.app/dreamforge/magazines/details?id=43): Solitary Journeys, Shared Souls. Read it [online now](https://dreamforge.mywebportal.app/dreamforge/stories/show/more-than-microscopic-erin-darrow).

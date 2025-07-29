@@ -1,9 +1,7 @@
 ---
 title: Story forthcoming in All Worlds Wayfarer 14
 categories:
-- publications
 - news
-- short stories
 ---
 
 I&#39;m delighted to announce that my speculative fiction short story, _Echo of the Desert in the Sky_ featuring a mother, mirage magic, and mythical sunbirds will be published in the vernal equinox issue (14) of [All Worlds Wayfarer](https://www.allworldswayfarer.com/).

@@ -1,9 +1,7 @@
 ---
 title: Echo of the Desert in the Sky out now
 categories:
-- publications
 - news
-- short stories
 ---
 
 _Echo of the Desert in the Sky_ is now out in [All Worlds Wayfarer 14](https://a.co/d/5BkXYIk)! 

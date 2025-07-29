@@ -1,7 +1,6 @@
 ---
 title: Merry Migraines published in Please See Me
 categories:
-- publications
 - news
 ---
 
