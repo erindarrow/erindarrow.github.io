@@ -20,7 +20,7 @@ title: Writing
 <br>Content Warnings: Dead Bodies, References to: Genocide
 <br>_Hope: The Thing with Feathers_, Metaphorosis Books (August 2025)
 <br>[Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers/e3d72f48d2cb8646)
-<br>[Amazon](https://www.amazon.com/HOPE-Feathers-B-Morris-Allen-ebook/dp/B0FC3PQ44H)
+<br>[Amazon](https://a.co/d/cGH6Cff)
 <br>_All Worlds Wayfarer_ Issue 14 (March 2023)
 <br>[kindle](https://a.co/d/0O1kxLa)
 
