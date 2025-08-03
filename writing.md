@@ -17,11 +17,11 @@ title: Writing
 "a surprisingly sweet tale" – Mina, [Tangent Online](https://tangentonline.com/e-market-quarterly/dreamforge-anvil-18-winter-2024/)
 
 **Echo of the Desert in the Sky**
+<br>Content Warnings: Dead Bodies, References to: Genocide
 <br>_Hope: The Thing with Feathers_, Metaphorosis Books (August 2025)
 <br>[Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers/e3d72f48d2cb8646)
 <br>[Amazon](https://www.amazon.com/HOPE-Feathers-B-Morris-Allen-ebook/dp/B0FC3PQ44H)
 <br>_All Worlds Wayfarer_ Issue 14 (March 2023)
-<br>Content Warnings: Dead Bodies, References to: Genocide
 <br>[kindle](https://a.co/d/0O1kxLa)
 
 ## Nonfiction
