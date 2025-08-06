@@ -18,4 +18,3 @@ title: Writing
 ## Nonfiction
 **Merry Migraines**
 <br>[_Please See Me_ Issue 12](https://pleaseseeme.com/issue-12-diagnosis/) (December 2022)
-
