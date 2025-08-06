@@ -55,7 +55,7 @@ defaults:
 url: 'https://erindarrow.github.io'
 baseurl: ''
 title: 'Erin Darrow'
-description: 'Fantasy author'
+description: 'Author'
 permalink: pretty
 logo: "/assets/logo.png"
 lang: "en-US"
