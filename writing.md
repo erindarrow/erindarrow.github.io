@@ -18,3 +18,5 @@ title: Writing
 ## Nonfiction
 **Merry Migraines**
 <br>[_Please See Me_ Issue 12](https://pleaseseeme.com/issue-12-diagnosis/) (December 2022)
+
+<img src="/assets/covers/aww14cover.jpg" alt="All Worlds Wayfarer issue 14 cover" style="height: 200 !important;" />
