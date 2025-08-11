@@ -1,6 +1,5 @@
-
 ---
-title: title here
+title: Maggie Slater interview
 categories:
 - news
 ---
