@@ -10,6 +10,7 @@ title: Writing
 <br>[_DreamForge Anvil_ Issue 18](https://dreamforgemagazine.com/product/dreamforge-anvil-issue-18-epub-mobi-pdf/) (December 2024)
 <br>[_DreamForge Magazine_ Issue 15](https://a.co/d/1itSqtL) (December 2024)
 <br>[Tangent Online review](https://tangentonline.com/e-market-quarterly/dreamforge-anvil-18-winter-2024/)
+<br>[Read online](https://dreamforgemagazine.com/story/more-than-microscopic/)
 
 **Echo of the Desert in the Sky**
 <br>Content Warnings: Dead Bodies, References to: Genocide
@@ -20,3 +21,4 @@ title: Writing
 ## Nonfiction
 **Merry Migraines**
 <br>[_Please See Me_ Issue 12](https://pleaseseeme.com/issue-12-diagnosis/) (December 2022)
+<br>[Read online](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/)
