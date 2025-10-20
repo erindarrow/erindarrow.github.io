@@ -75,6 +75,8 @@ navigation_header:
   url: /
 - title: Writing
   url: /writing/
+- title: News
+  url: /categories/#news
 - title: Blog
   url: /blog/
 - title: Contact
