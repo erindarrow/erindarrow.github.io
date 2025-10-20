@@ -27,4 +27,4 @@ title: Writing
 <br>_Please See Me_ Issue 12 (December 2022)
 <br>[Read online](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/)
 
-<img src="/assets/covers/aww14cover_400.jpg" alt="All Worlds Wayfarer issue 14 cover"/> <img src="/assets/covers/df-anvil-18-cover_400.jpg" alt="DreamForge Anvil 18 cover"/> <img src="/assets/covers/df-mag-cover-15_400.jpg" alt="DreamForge 15 cover"/> <img src="/assets/covers/HOPE_2025-cover_400.jpg" alt="Hope the thing with feathers cover"/>
+<img src="/assets/covers/aww14cover_200.jpg" alt="All Worlds Wayfarer issue 14 cover"/> <img src="/assets/covers/df-anvil-18-cover_200.jpg" alt="DreamForge Anvil 18 cover"/> <img src="/assets/covers/df-mag-cover-15_200.jpg" alt="DreamForge 15 cover"/> <img src="/assets/covers/HOPE_2025-cover_200.jpg" alt="Hope the thing with feathers cover"/>
