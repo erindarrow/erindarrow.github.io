@@ -4,7 +4,7 @@ styles: true
 ---
 
 // Background colours
-$backgroundColour: ##eee !default;
+$backgroundColour: #eee !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #7e8e78 !default;
 $accentColour: #05bf85 !default;
@@ -43,5 +43,6 @@ $monospacetype: (
 
 
 @import "alembic";
+
 
 
