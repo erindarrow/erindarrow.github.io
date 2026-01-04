@@ -9,4 +9,6 @@ A mother will do anything to save her daughter. Sora learns how far she is willi
 
 Purchase it from one of the following:
 <br>[Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers/e3d72f48d2cb8646)
+<br>[Ebooks.com](https://www.ebooks.com/book/346549302/hope/b-morris-allen/)
 <br>[Amazon](https://a.co/d/cGH6Cff)
+
