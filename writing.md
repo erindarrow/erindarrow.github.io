@@ -19,7 +19,7 @@ title: Writing
 <br>reprint in _Hope: The Thing with Feathers_ (August 2025)
 <br>[Amazon](https://a.co/d/cGH6Cff), [Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers-b-morris-allen/2d01c93dbb8abaea?ean=9781640760110), [Ebooks.com](https://www.ebooks.com/book/346549302/hope/b-morris-allen/), [GoodReads](https://www.goodreads.com/book/show/235780086-hope)
 <br>original in _All Worlds Wayfarer_ Issue 14 (March 2023)
-<br>[Amazon](https://a.co/d/0O1kxLa) [GoodReads](https://www.goodreads.com/book/show/122600905-all-worlds-wayfarer)
+<br>[Amazon](https://a.co/d/0O1kxLa), [GoodReads](https://www.goodreads.com/book/show/122600905-all-worlds-wayfarer)
 <br>[Author interview](https://maggieslater.com/2025/08/08/three-questions-erin-darrow/)
 
 ## Nonfiction
