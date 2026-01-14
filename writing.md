@@ -8,18 +8,18 @@ title: Writing
 
 **More Than Microscopic**
 <br>_DreamForge Magazine_ Issue 15 (December 2024)
-<br>[Amazon](https://a.co/d/1itSqtL), [GoodReads](https://www.goodreads.com/book/show/222226575-dreamforge-magazine-issue-15)
+<br>[Amazon](https://a.co/d/1itSqtL)
 <br>_DreamForge Anvil_ Issue 18 (December 2024)
-<br>[Amazon](https://a.co/d/ejVnNjb), [DreamForge](https://dreamforgemagazine.com/product/dreamforge-anvil-issue-18-epub-mobi-pdf/), [GoodReads](https://www.goodreads.com/book/show/222160411-dreamforge-magazine---anvil-issue-18)
+<br>[Amazon](https://a.co/d/ejVnNjb), [DreamForge](https://dreamforgemagazine.com/product/dreamforge-anvil-issue-18-epub-mobi-pdf/)
 <br>[Tangent Online review](https://tangentonline.com/e-market-quarterly/dreamforge-anvil-18-winter-2024/)
 <br>[Read online](https://dreamforgemagazine.com/story/more-than-microscopic/)
 
 **Echo of the Desert in the Sky**
 <br>Content Warnings: Dead Bodies, References to: Genocide
 <br>reprint in _Hope: The Thing with Feathers_ (August 2025)
-<br>[Amazon](https://a.co/d/cGH6Cff), [Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers-b-morris-allen/2d01c93dbb8abaea?ean=9781640760110), [Ebooks.com](https://www.ebooks.com/book/346549302/hope/b-morris-allen/), [GoodReads](https://www.goodreads.com/book/show/235780086-hope)
+<br>[Amazon](https://a.co/d/cGH6Cff), [Bookshop.org](https://bookshop.org/p/books/hope-the-thing-with-feathers-b-morris-allen/2d01c93dbb8abaea?ean=9781640760110), [Ebooks.com](https://www.ebooks.com/book/346549302/hope/b-morris-allen/)
 <br>original in _All Worlds Wayfarer_ Issue 14 (March 2023)
-<br>[Amazon](https://a.co/d/0O1kxLa), [GoodReads](https://www.goodreads.com/book/show/122600905-all-worlds-wayfarer)
+<br>[Amazon](https://a.co/d/0O1kxLa)
 <br>[Author interview](https://maggieslater.com/2025/08/08/three-questions-erin-darrow/)
 
 ## Nonfiction
