@@ -5,7 +5,7 @@ categories:
 ---
 **Into the Dark**, an anthology of dark fantasy and horror stories from _All Worlds Wayfarer_ is out now!
 
-I was a first reader for this anthology and I am so excited to see these 34 thought-provoking, emotional, imaginative stories out in the world. Darkness is woven into the fabric of each story, but the threads are thin enough to see the light shining through in perfect balance.
+I was a first reader for this anthology and I am so excited to see these 34 thought-provoking, emotional, imaginative stories out in the world. Darkness is woven into the fabric of each story, but the threads are thin enough to see the light shining through.
 
 The anthology is available from:
 <br>[Bookshop.org](https://bookshop.org/p/books/into-the-dark-a-dark-fantasy-and-fantastical-horror-anthology-all-worlds-wayfarer-various-authors/4bce0d69034cd97b?ean=9781736150573)
