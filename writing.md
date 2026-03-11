@@ -4,7 +4,8 @@ title: Writing
 
 ## Short fiction
 **What the Willow Knows**
-<br>_Once Upon a Moonless Night: Tales of Betrayal, Revenge, and Redemption_ (forthcoming from the Brothers Uber)
+<br>_Once Upon a Moonless Night: Tales of Betrayal, Revenge, and Redemption_ (March 2025)
+<br>[Amazon](https://www.amazon.com/Once-Upon-Moonless-Night-Redemption-ebook/dp/B0GQ27FY11)
 
 **More Than Microscopic**
 <br>_DreamForge Magazine_ Issue 15 (December 2024)
