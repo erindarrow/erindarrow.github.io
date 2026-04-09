@@ -1,1 +1,1 @@
-GitHub Pages built using a modified [Alembic theme](https://alembic.darn.es/) by [David Darnes](https://darn.es/). Logo designed by Karita Dégrugillier at KRD Communication. Header image by Erin Darrow.
+GitHub Pages built using a modified [Alembic theme](https://alembic.darn.es/) by [David Darnes](https://darn.es/). Bird logo designed by Karita Dégrugillier at KRD Communication. Header image by Erin Darrow.
