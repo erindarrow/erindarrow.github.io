@@ -87,12 +87,14 @@ navigation_header:
 navigation_footer:
 - title: RSS feed
   url: /feed.xml
+- title: Privacy Policy
+  url: /privacy.md
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Email: true
-  Twitter: "#815F93"
-  facebook: "#815F93"
-  tumblr: "#815F93"
+ # Email: true
+ # Twitter: "#815F93"
+ # facebook: "#815F93"
+ # tumblr: "#815F93"
 
 # 10. Fonts
 # Load custom fonts from fonts.google.com etc
