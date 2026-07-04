@@ -1,3 +1,5 @@
+# Privacy Policy
+
 ## Purpose
 
 This policy explains what information Erin Darrow ("we", "us", "our") at erindarrow.com collect, and how we use, store, and protect that information when you visit our site.
