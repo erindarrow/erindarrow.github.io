@@ -87,8 +87,10 @@ navigation_header:
 navigation_footer:
 - title: RSS feed
   url: /feed.xml
-- title: Privacy Policy
+- title: Privacy policy
   url: /privacy/
+- title: AI statement
+  url: /genai/
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
  Email: true
