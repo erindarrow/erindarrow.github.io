@@ -29,4 +29,4 @@ title: Writing
 <br>Please See Me Issue 12 (December 2022)
 <br>[Read online](https://pleaseseeme.com/issue-12-diagnosis/nonfiction/merry-migraines-psm-12-cnf-erin-darrow/)
 
-[View cover gallery](https://www.erindarrow.com/covers)
+[Covers and artist credits](https://www.erindarrow.com/covers)
