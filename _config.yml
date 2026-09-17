@@ -79,8 +79,6 @@ navigation_header:
   url: /categories/#news
 - title: Blog
   url: /blog/
-- title: Contact
-  url: /contact/
 - title: Search
   url: /search/
 
